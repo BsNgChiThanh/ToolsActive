@@ -12,8 +12,13 @@ Tác giả: Nguyễn Chí Thành
       ```php
       irm https://massgrave.dev/get | iex 
       ```
-5. Tool Active IDM trực tuyến bằng cách vô **Windows PowerShell** bấm chuột phải và **Run Administrator** sau đó copy dòng lệnh này: **irm https://massgrave.dev/ias | iex** dán vào và nhấn enter rồi làm theo hướng dẫn của cửa sổ hoặc download tool active [tại đây](https://1drv.ms/f/s!AkwSBX-xWiVhi0T7IqwsifZu_AOG?e=14Essh) hoặc [tại đây](https://codeload.github.com/massgravel/Microsoft-Activation-Scripts/zip/refs/heads/master)
-6. W10 Digital License Activation Script, download [tại đây](https://1drv.ms/u/s!AkwSBX-xWiVhiUaSUP5VaBEpk6Vn?e=Ly8MdC) hoặc [tại đây](https://terabox.com/s/1yTGROWkMs1lld4sCR5Wn2w)
+5. Tool Active IDM download [tại đây](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/IDM.cmd)
+   - Trực tuyến bằng cách vô **Windows PowerShell** bấm chuột phải và **Run Administrator** sau đó copy dòng lệnh này sau dán vào và nhấn enter rồi làm theo hướng dẫn của cửa sổ:
+     ```php
+     irm https://massgrave.dev/ias | iex 
+     ```
+    - Hoặc đọc: https://github.com/BsNgChiThanh/Crack-IDM 
+6. W10 Digital License Activation Script, download [tại đây](https://raw.githubusercontent.com/BsNgChiThanh/W10DigitalLicenseActivationScrip/IMP/W10%20Digital%20License%20Activation%20Script%20v7.0.rar)
 7. [Password: congdongbatdongsan _ Windows Loader](https://1drv.ms/u/s!AkwSBX-xWiVhgQu-I420iwQ6dbG9?e=WiMBxQ)
 8. [Office Tools](https://1drv.ms/u/s!AkwSBX-xWiVhg3aNEuRYre0bC3u0?e=op3csV), trang chủ [Office Tools](https://otp.landian.vip/en-us/download.html)
 9. [Backup Activation Office and Windows](https://github.com/BsNgChiThanh/Tools-Active/files/10080337/Backup.Activation.Office.and.Windows.zip)
