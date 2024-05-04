@@ -37,16 +37,15 @@ Tác giả: Nguyễn Chí Thành
 
 ### Windows ###
 
-- MAS Tool mới nhất Active mọi windows từ 8.1 trở đi download [tại đây](https://codeload.github.com/massgravel/Microsoft-Activation-Scripts/zip/refs/heads/master)
-- [Active Windows 7](https://github.com/BsNgChiThanh/Tools-Active/files/10080351/Active.Windows.7.txt)
-- [Active Windows 8 và 8.1](https://github.com/BsNgChiThanh/Tools-Active/files/10080352/Active.Windows.8.va.8.1.txt)
-- [Active Windows 10](https://github.com/BsNgChiThanh/Tools-Active/files/10080354/Active.Windows.10.txt)
-- [Active Windows 11 và 10](https://github.com/BsNgChiThanh/Tools-Active/files/10080355/Active.Windows.11.va.10.txt)
-- [W10 Digital License Activation Script 4](https://github.com/BsNgChiThanh/Tools-Active/files/10080370/W10.Digital.License.Activation.Script.4.txt)
-- [Online KMS Activation Script v6.0](https://github.com/BsNgChiThanh/Tools-Active/files/10080366/Online.KMS.Activation.Script.v6.0.txt)
-- [Online KMS AIO v0.48.0](https://github.com/BsNgChiThanh/Tools-Active/files/10080367/Online.KMS.AIO.v0.48.0.txt)
-- [MAS 1.5 AIO CRC32 21D20776](https://github.com/BsNgChiThanh/Tools-Active/files/10080356/MAS.1.5.AIO.CRC32.21D20776.txt)
-- [MAS 1.7 AIO.txt](https://github.com/BsNgChiThanh/Tools-Active/files/10080392/MAS.1.7.AIO.txt)
+- MAS Tool mới nhất Active mọi windows từ 8.1 trở đi download [tại đây](https://raw.githubusercontent.com/BsNgChiThanh/MAS-TOOL/IMP/MAS.cmd)
+- [Active Windows 7](https://raw.githubusercontent.com/BsNgChiThanh/Kich-hoat-Windows/IMP/Active%20Windows%207.txt)
+- [Active Windows 8 và 8.1](https://raw.githubusercontent.com/BsNgChiThanh/Kich-hoat-Windows/IMP/Active%20Windows%208%20v%C3%A0%208.1.txt)
+- [Active Windows 10](https://raw.githubusercontent.com/BsNgChiThanh/Kich-hoat-Windows/IMP/Active%20Windows%2010.txt)
+- [Active Windows 11 và 10](https://raw.githubusercontent.com/BsNgChiThanh/Kich-hoat-Windows/IMP/Active%20Windows%2011%20v%C3%A0%2010.txt)
+- [W10 Digital License Activation Script 4](https://raw.githubusercontent.com/BsNgChiThanh/W10DigitalLicenseActivationScrip/IMP/W10%20Digital%20License%20Activation%20Script%20v7.0.rar)
+- [MAS Tools](https://raw.githubusercontent.com/BsNgChiThanh/MAS-TOOL/IMP/MAS.cmd)
+- [Online KMS AIO](https://raw.githubusercontent.com/BsNgChiThanh/KMS_VL_ALL_AIO/IMP/KMS.cmd)
+- [Activate AIO Tools 3.1.3](https://raw.githubusercontent.com/BsNgChiThanh/ActivateAIOTools/IMP/Activate%20AIO%20Tools%20v3.1.3.rar)
 
 ## CÀI OFFICE TRỰC TUYẾN ##
 
