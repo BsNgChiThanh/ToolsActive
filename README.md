@@ -19,7 +19,7 @@ Tác giả: Nguyễn Chí Thành
      ```
     - Hoặc đọc: https://github.com/BsNgChiThanh/Crack-IDM 
 6. W10 Digital License Activation Script, download [tại đây](https://raw.githubusercontent.com/BsNgChiThanh/W10DigitalLicenseActivationScrip/IMP/W10%20Digital%20License%20Activation%20Script%20v7.0.rar)
-7. [Password: congdongbatdongsan _ Windows Loader](https://1drv.ms/u/s!AkwSBX-xWiVhgQu-I420iwQ6dbG9?e=WiMBxQ)
+7. [Password: congdongbatdongsan _ Windows Loader](https://raw.githubusercontent.com/BsNgChiThanh/Kich-hoat-Windows/IMP/congdongbatdongsan_Windows%20Loader.rar)
 8. [Office Tools](https://1drv.ms/u/s!AkwSBX-xWiVhg3aNEuRYre0bC3u0?e=op3csV), trang chủ [Office Tools](https://otp.landian.vip/en-us/download.html)
 9. [Backup Activation Office and Windows](https://github.com/BsNgChiThanh/Tools-Active/files/10080337/Backup.Activation.Office.and.Windows.zip)
 10. [Dism++](https://1drv.ms/f/s!AkwSBX-xWiVhi3gfqanLd8yzBNnL?e=dhIW3J)
