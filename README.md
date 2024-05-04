@@ -4,8 +4,8 @@ Tác giả: Nguyễn Chí Thành
 
 # TOOLS ACTIVE ##
 
-1. Activate AIO Tools download load [tại đây](https://raw.githubusercontent.com/BsNgChiThanh/ActivateAIOTools/IMP/Activate%20AIO%20Tools%20v3.1.3.rar) hoặc [tại đây](https://terabox.com/s/1aFPP-6jhC552GJfVIh08pw)
-2. Activation Tools 24h download load [tại đây](https://raw.githubusercontent.com/BsNgChiThanh/Kich-hoat-Office/KichHoatOffice/ActivationTool%2024h.zip) hoặc [tại đây](https://terabox.com/s/1rFFq9bXdW3X2MJFvK2G7NA)
+1. Activate AIO Tools download load [tại đây](https://raw.githubusercontent.com/BsNgChiThanh/ActivateAIOTools/IMP/Activate%20AIO%20Tools%20v3.1.3.rar)  
+2. Activation Tools 24h download load [tại đây](https://raw.githubusercontent.com/BsNgChiThanh/Kich-hoat-Office/KichHoatOffice/ActivationTool%2024h.zip)  
 3. KMS VL ALL AIO download load [tại đây](https://raw.githubusercontent.com/BsNgChiThanh/KMS_VL_ALL_AIO/IMP/KMS.cmd), trang [github](https://github.com/abbodi1406/KMS_VL_ALL_AIO/releases)
 4. MAS Tool download [tại đây](https://raw.githubusercontent.com/BsNgChiThanh/MAS-TOOL/IMP/MAS.cmd) hoặc [tại đây](https://massgrave.dev/index.html#Activations_Summary) 
     - MAS trực tuyến bằng cách vô **Windows PowerShell** bấm chuột phải và **Run Administrator** sau đó copy dòng lệnh sau dán vào và nhấn enter, làm the hướng dẫn của cửa sổ là xong.
