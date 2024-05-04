@@ -8,10 +8,10 @@ Tác giả: Nguyễn Chí Thành
 2. Activation Tools 24h download load [tại đây](https://raw.githubusercontent.com/BsNgChiThanh/Kich-hoat-Office/KichHoatOffice/ActivationTool%2024h.zip) hoặc [tại đây](https://terabox.com/s/1rFFq9bXdW3X2MJFvK2G7NA)
 3. KMS VL ALL AIO download load [tại đây](https://raw.githubusercontent.com/BsNgChiThanh/KMS_VL_ALL_AIO/IMP/KMS.cmd), trang [github](https://github.com/abbodi1406/KMS_VL_ALL_AIO/releases)
 4. MAS Tool download [tại đây](https://1drv.ms/u/s!AkwSBX-xWiVhiT-3r9nKNHt51gBx?e=AW6yWY) hoặc [tại đây](https://codeload.github.com/massgravel/Microsoft-Activation-Scripts/zip/refs/heads/master), trang [github](https://github.com/massgravel/Microsoft-Activation-Scripts/tree/master/MAS) 
-  - MAS trực tuyến bằng cách vô **Windows PowerShell** bấm chuột phải và **Run Administrator** sau đó copy dòng lệnh sau dán vào và nhấn enter, làm the hướng dẫn của cửa sổ là xong.
-    ```php
-    irm https://massgrave.dev/get | iex 
-    ```
+    - MAS trực tuyến bằng cách vô **Windows PowerShell** bấm chuột phải và **Run Administrator** sau đó copy dòng lệnh sau dán vào và nhấn enter, làm the hướng dẫn của cửa sổ là xong.
+      ```php
+      irm https://massgrave.dev/get | iex 
+      ```
 5. Tool Active IDM trực tuyến bằng cách vô **Windows PowerShell** bấm chuột phải và **Run Administrator** sau đó copy dòng lệnh này: **irm https://massgrave.dev/ias | iex** dán vào và nhấn enter rồi làm theo hướng dẫn của cửa sổ hoặc download tool active [tại đây](https://1drv.ms/f/s!AkwSBX-xWiVhi0T7IqwsifZu_AOG?e=14Essh) hoặc [tại đây](https://codeload.github.com/massgravel/Microsoft-Activation-Scripts/zip/refs/heads/master)
 6. W10 Digital License Activation Script, download [tại đây](https://1drv.ms/u/s!AkwSBX-xWiVhiUaSUP5VaBEpk6Vn?e=Ly8MdC) hoặc [tại đây](https://terabox.com/s/1yTGROWkMs1lld4sCR5Wn2w)
 7. [Password: congdongbatdongsan _ Windows Loader](https://1drv.ms/u/s!AkwSBX-xWiVhgQu-I420iwQ6dbG9?e=WiMBxQ)
