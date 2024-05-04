@@ -17,20 +17,18 @@ Tác giả: Nguyễn Chí Thành
 10. [Dism++](https://1drv.ms/f/s!AkwSBX-xWiVhi3gfqanLd8yzBNnL?e=dhIW3J) hoặc https://github.com/Chuyu-Team/Dism-Multi-language
 
 ## TOOLS cmd ##
-- [Xem hạn sử dụng Windows](https://github.com/BsNgChiThanh/Tools-Active/files/10080374/Xem.h.n.s.d.ng.Windows.txt)
-- [Active all Windows](https://github.com/BsNgChiThanh/Tools-Active/files/10080346/Active.all.Windows.txt)
-- [Xóa key Office](https://github.com/BsNgChiThanh/Tools-Active/files/10080375/Xoa.key.Office.txt)
-- [Xóa key Windows](https://github.com/BsNgChiThanh/Tools-Active/files/10080376/Xoa.key.Windows.txt)
+- [Xem hạn sử dụng Windows](https://raw.githubusercontent.com/BsNgChiThanh/Kich-hoat-Windows/IMP/XemHanSuDungWindows.cmd)
+- [Active all Windows](https://raw.githubusercontent.com/BsNgChiThanh/Kich-hoat-Windows/IMP/Active%20all%20Windows.txt)
+- [Xóa key Office](https://raw.githubusercontent.com/BsNgChiThanh/Kich-hoat-Office/KichHoatOffice/X%C3%B3a%20key%20Office.txt)
+- [Xóa key Windows](https://raw.githubusercontent.com/BsNgChiThanh/Kich-hoat-Windows/blob/IMP/X%C3%B3a%20key%20Windows.txt)
 - [Sao lưu Office và Windows.txt](https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/Sao%20l%C6%B0u%20office%20v%C3%A0%20windows.txt)
 
 ### Office ###
 
-- [Active Office 365 Mondo](https://raw.githubusercontent.com/BsNgChiThanh/Kich-hoat-Office/KichHoatOffice/ActiveOfficeMondo.cmd)
-- MAS Tool mới nhất Active Office mọi phiên bản từ 2013 trở đi download [tại đây](https://raw.githubusercontent.com/BsNgChiThanh/MAS-TOOL/IMP/MAS.cmd)
-- [Office 2016](https://raw.githubusercontent.com/BsNgChiThanh/Kich-hoat-Office/KichHoatOffice/Office2016.cmd)
-- [Office 2019](https://raw.githubusercontent.com/BsNgChiThanh/Kich-hoat-Office/KichHoatOffice/ActiveOffice2019.cmd)
-- [Office 2021 LTSC](https://raw.githubusercontent.com/BsNgChiThanh/Kich-hoat-Office/KichHoatOffice/ActiveOffice2021.cmd)
-- [KMS Tools](https://raw.githubusercontent.com/BsNgChiThanh/KMS_VL_ALL_AIO/IMP/KMS.cmd)
+- [Active Office 365 Mondo](https://github.com/BsNgChiThanh/office365Mondo)
+- [MAS Tool mới nhất Active Office mọi phiên bản từ 2013 trở đi](https://raw.githubusercontent.com/BsNgChiThanh/MAS-TOOL/IMP/MAS.cmd) hoặc https://github.com/BsNgChiThanh/MAS-TOOL
+- [Office 365 Prolus](https://github.com/BsNgChiThanh/office-365-prolus)
+
 
 ### Windows ###
 
