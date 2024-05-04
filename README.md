@@ -24,16 +24,12 @@ Tác giả: Nguyễn Chí Thành
 
 ### Office ###
 
-- [Active Office 365 Mondo](https://github.com/BsNgChiThanh/Tools-Active/files/10080348/Active.Office.365.Mondo.txt)
-- MAS Tool mới nhất Active Office mọi phiên bản từ 2013 trở đi download [tại đây](https://codeload.github.com/massgravel/Microsoft-Activation-Scripts/zip/refs/heads/master)
-- [MAS 1.5 AIO CRC32 21D20776](https://github.com/BsNgChiThanh/Tools-Active/files/10080356/MAS.1.5.AIO.CRC32.21D20776.txt)
-- [MAS 1.7 AIO.txt](https://github.com/BsNgChiThanh/Tools-Active/files/10080392/MAS.1.7.AIO.txt)
-- [Office 2016](https://github.com/BsNgChiThanh/Tools-Active/files/10080362/Office.2016.txt)
-- [Office 2019](https://github.com/BsNgChiThanh/Tools-Active/files/10080363/Office.2019-1.txt)
-- [Office 2019](https://github.com/BsNgChiThanh/Tools-Active/files/10080364/Office.2019-2.txt)
-- [Office 2021 LTSC](https://github.com/BsNgChiThanh/Tools-Active/files/10080365/Office.2021.LTSC.txt)
-- [Online KMS Activation Script v6.0](https://github.com/BsNgChiThanh/Tools-Active/files/10080366/Online.KMS.Activation.Script.v6.0.txt)
-- [Online KMS AIO v0.48.0](https://github.com/BsNgChiThanh/Tools-Active/files/10080367/Online.KMS.AIO.v0.48.0.txt)
+- [Active Office 365 Mondo](https://raw.githubusercontent.com/BsNgChiThanh/Kich-hoat-Office/KichHoatOffice/ActiveOfficeMondo.cmd)
+- MAS Tool mới nhất Active Office mọi phiên bản từ 2013 trở đi download [tại đây](https://raw.githubusercontent.com/BsNgChiThanh/MAS-TOOL/IMP/MAS.cmd)
+- [Office 2016](https://raw.githubusercontent.com/BsNgChiThanh/Kich-hoat-Office/KichHoatOffice/Office2016.cmd)
+- [Office 2019](https://raw.githubusercontent.com/BsNgChiThanh/Kich-hoat-Office/KichHoatOffice/ActiveOffice2019.cmd)
+- [Office 2021 LTSC](https://raw.githubusercontent.com/BsNgChiThanh/Kich-hoat-Office/KichHoatOffice/ActiveOffice2021.cmd)
+- [KMS Tools](https://raw.githubusercontent.com/BsNgChiThanh/KMS_VL_ALL_AIO/IMP/KMS.cmd)
 
 ### Windows ###
 
