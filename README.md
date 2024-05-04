@@ -29,7 +29,7 @@ Tác giả: Nguyễn Chí Thành
 - [Active all Windows](https://github.com/BsNgChiThanh/Tools-Active/files/10080346/Active.all.Windows.txt)
 - [Xóa key Office](https://github.com/BsNgChiThanh/Tools-Active/files/10080375/Xoa.key.Office.txt)
 - [Xóa key Windows](https://github.com/BsNgChiThanh/Tools-Active/files/10080376/Xoa.key.Windows.txt)
-- [Sao lưu Office và Windows.txt](https://github.com/BsNgChiThanh/Tools-Active/files/10080368/Sao.l.u.Office.va.Windows.txt)
+- [Sao lưu Office và Windows.txt](https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/Sao%20l%C6%B0u%20office%20v%C3%A0%20windows.txt)
 
 ### Office ###
 
