@@ -65,3 +65,12 @@ Tác giả: Nguyễn Chí Thành
    - https://github.com/BsNgChiThanh/lservrc
 2. Unikey: https://github.com/BsNgChiThanh/UniKeyNT
 3. Winzar: https://github.com/BsNgChiThanh/Winzar
+4. Font https://github.com/BsNgChiThanh/font
+5. Usb Boot https://github.com/BsNgChiThanh/USB-BOOT
+6. WinToHDD https://github.com/BsNgChiThanh/WintoHDD
+7. ULTRAISO https://github.com/BsNgChiThanh/UltraisoPremium
+8. PHẦN MỀM GỠ CÀI ĐẶT: https://github.com/BsNgChiThanh/UninstallerPro
+9. ABBYY CHUYỂN ẢNH, PDF THÀNH WORD: https://github.com/BsNgChiThanh/ABBYY
+10. QUAY FILM MÀN HÌNH, CẮT GHÉP VIDEO, XEM VIDEO VỚI MỌI ĐUÔI VÀ CONVERT VIDEO:
+    - [Apowerrec](https://1drv.ms/u/s!AmvuvqBBIcK6jmIUJ2002nd0CTgN?e=44aPl3)
+    - [Camtasia](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EuSYntdTEDdAu6J4fNMQgkEBpmQC-KMeYWuf8KJg7rT98w?e=4Qp2DM)
