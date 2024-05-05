@@ -24,7 +24,7 @@ Tác giả: Nguyễn Chí Thành
 - [Sao lưu Office và Windows.txt](https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/Sao%20l%C6%B0u%20office%20v%C3%A0%20windows.txt)
 
 ### Office ###
-
+- Source Office: https://github.com/BsNgChiThanh/SourceOffice
 - Active Office 365 Mondo https://github.com/BsNgChiThanh/office365Mondo 
 - MAS Tool https://github.com/BsNgChiThanh/MAS-TOOL
 - Office 365 Prolus https://github.com/BsNgChiThanh/office-365-prolus 
@@ -49,14 +49,19 @@ Tác giả: Nguyễn Chí Thành
 - Tools tạo tác vụ gia hạn kích hoạt https://github.com/BsNgChiThanh/AutoRenewOfficeWindows
 
 ### Windows ###
+- Source Windows https://github.com/BsNgChiThanh/SourceWindows
 - MAS Tool https://github.com/BsNgChiThanh/MAS-TOOL  
 - Activate AIO Tools https://github.com/BsNgChiThanh/ActivateAIOTools
 - KMS Tools https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO
 - W10 Digital License Activation Scrip https://github.com/BsNgChiThanh/W10DigitalLicenseActivationScrip
 - Tools tạo tác vụ gia hạn kích hoạt https://github.com/BsNgChiThanh/AutoRenewOfficeWindows
 
-  
 ## CÀI OFFICE TRỰC TUYẾN ##
 - [Office Tools](https://otp.landian.vip/en-us/download.html)
  
-
+## Tools khác: ##
+1. Kích hoạt SPSS:
+   - https://github.com/BsNgChiThanh/SPSS
+   - https://github.com/BsNgChiThanh/lservrc
+2. Unikey: https://github.com/BsNgChiThanh/UniKeyNT
+3. Winzar: https://github.com/BsNgChiThanh/Winzar
