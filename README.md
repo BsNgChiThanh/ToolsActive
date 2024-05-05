@@ -74,3 +74,19 @@ Tác giả: Nguyễn Chí Thành
 10. QUAY FILM MÀN HÌNH, CẮT GHÉP VIDEO, XEM VIDEO VỚI MỌI ĐUÔI VÀ CONVERT VIDEO:
     - [Apowerrec](https://1drv.ms/u/s!AmvuvqBBIcK6jmIUJ2002nd0CTgN?e=44aPl3)
     - [Camtasia](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EuSYntdTEDdAu6J4fNMQgkEBpmQC-KMeYWuf8KJg7rT98w?e=4Qp2DM)
+11. ĐỒ HỌA COREL https://github.com/BsNgChiThanh/Kich-hoat-Corel
+12. PHẦN MỀM HÌNH HỌC https://github.com/BsNgChiThanh/Cabri-PhanMemHinhHoc
+13. NITRO PRO chỉnh sửa PDF rất tiện lợi: https://github.com/BsNgChiThanh/NitroPro
+14. PHẦN MỀM TẠO CÔNG THỨC TOÁN HỌC https://github.com/BsNgChiThanh/MathType
+15. MÁY TÍNH CASIO https://github.com/BsNgChiThanh/Gia-lap-Casio
+16. English Study Pro 2012 https://github.com/BsNgChiThanh/EnglishStudyPro2012
+17. Driver máy tính:
+    - Trước khi cài lại máy tính các bạn nên dùng Dism++ để sao lưu driver và bản quyền Windows, office của mình. [download Dism++](https://1drv.ms/f/s!AkwSBX-xWiVhi3gfqanLd8yzBNnL?e=dhIW3J) hoặc https://github.com/Chuyu-Team/Dism-Multi-language
+    - Thiếu diver thì giải pháp dùng **[EasyDrv7](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/Es04kIshd7JHl-fsKSGUCvQBMorwCJ5O843yKHSqnFsp5g?e=fF18us)**, hoặc cũng có thể chọn driver online **[3DP Chip](https://www.3dpchip.com/3dp/chip_down_lite.php?pl=vi)**
+    - **[Xem hướng dẫn sử dụng EasyDrv7](https://www.tienichmaytinh.net/tai-bo-cai-driver-offline-easydrv7-day-du-cho-windows-moi-nhat)**, **[hướng dẫn sử dụng 3DP Chip](https://www.google.com/amp/s/quantrimang.com/cach-dung-3dp-chip-cap-nhat-hoac-cai-moi-driver-con-thieu-cho-may-tinh-150009%3fmode=amp)**
+18. PHẦN MỀM CỜ TƯỚNG GIẢI TRÍ INTELLA PORTABLE https://github.com/BsNgChiThanh/Intella
+19. PHẦN MỀM HỖ TRỢ TỪ XA:
+    - TeamViewer https://www.teamviewer.com/vi/download/android/?previous_page=33124
+    - ULTRAVIEWER https://www.ultraviewer.net/en/download.html
+    - Anydesk https://anydesk.com/en
+
