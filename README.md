@@ -7,14 +7,15 @@ Tác giả: Nguyễn Chí Thành
 1. Activate AIO Tools download load [tại đây](https://raw.githubusercontent.com/BsNgChiThanh/ActivateAIOTools/IMP/Activate%20AIO%20Tools%20v3.1.3.rar) hoặc https://github.com/BsNgChiThanh/ActivateAIOTools  
 2. Activation Tools 24h download load [tại đây](https://raw.githubusercontent.com/BsNgChiThanh/Kich-hoat-Office/KichHoatOffice/ActivationTool%2024h.zip)  
 3. KMS VL ALL AIO download load [tại đây](https://raw.githubusercontent.com/BsNgChiThanh/KMS_VL_ALL_AIO/IMP/KMS.cmd), trang [github](https://github.com/abbodi1406/KMS_VL_ALL_AIO/releases) hoặc https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO
-4. MAS Tool download [tại đây](https://raw.githubusercontent.com/BsNgChiThanh/MAS-TOOL/IMP/MAS.cmd) hoặc [tại đây](https://massgrave.dev/index.html#Activations_Summary) 
+4. KMS Suite: https://github.com/BsNgChiThanh/KMS_Suite
+5. MAS Tool download [tại đây](https://raw.githubusercontent.com/BsNgChiThanh/MAS-TOOL/IMP/MAS.cmd) hoặc [tại đây](https://massgrave.dev/index.html#Activations_Summary) 
     hoặc https://github.com/BsNgChiThanh/MAS-TOOL
-5. Tool Active IDM download [tại đây](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/IDM.cmd) hoặc https://github.com/BsNgChiThanh/Crack-IDM 
-6. W10 Digital License Activation Script, download [tại đây](https://raw.githubusercontent.com/BsNgChiThanh/W10DigitalLicenseActivationScrip/IMP/W10%20Digital%20License%20Activation%20Script%20v7.0.rar) hoặc https://github.com/BsNgChiThanh/W10DigitalLicenseActivationScrip
-7. [Password: congdongbatdongsan _ Windows Loader](https://raw.githubusercontent.com/BsNgChiThanh/Kich-hoat-Windows/IMP/congdongbatdongsan_Windows%20Loader.rar)
-8. Office Tools download từ [trang chủ](https://otp.landian.vip/en-us/download.html)
-9. [Backup Activation Office and Windows](https://raw.githubusercontent.com/BsNgChiThanh/Kich-hoat-Windows/IMP/Backup%20Activation.bat)
-10. [Dism++](https://1drv.ms/f/s!AkwSBX-xWiVhi3gfqanLd8yzBNnL?e=dhIW3J) hoặc https://github.com/Chuyu-Team/Dism-Multi-language
+6. Tool Active IDM download [tại đây](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/IDM.cmd) hoặc https://github.com/BsNgChiThanh/Crack-IDM 
+7. W10 Digital License Activation Script, download [tại đây](https://raw.githubusercontent.com/BsNgChiThanh/W10DigitalLicenseActivationScrip/IMP/W10%20Digital%20License%20Activation%20Script%20v7.0.rar) hoặc https://github.com/BsNgChiThanh/W10DigitalLicenseActivationScrip
+8. [Password: congdongbatdongsan _ Windows Loader](https://raw.githubusercontent.com/BsNgChiThanh/Kich-hoat-Windows/IMP/congdongbatdongsan_Windows%20Loader.rar)
+9. Office Tools download từ [trang chủ](https://otp.landian.vip/en-us/download.html)
+10. [Backup Activation Office and Windows](https://raw.githubusercontent.com/BsNgChiThanh/Kich-hoat-Windows/IMP/Backup%20Activation.bat)
+11. [Dism++](https://1drv.ms/f/s!AkwSBX-xWiVhi3gfqanLd8yzBNnL?e=dhIW3J) hoặc https://github.com/Chuyu-Team/Dism-Multi-language
 
 ## TOOLS cmd ##
 - [Xem hạn sử dụng Windows](https://raw.githubusercontent.com/BsNgChiThanh/Kich-hoat-Windows/IMP/XemHanSuDungWindows.cmd)
@@ -53,6 +54,7 @@ Tác giả: Nguyễn Chí Thành
 - MAS Tool https://github.com/BsNgChiThanh/MAS-TOOL  
 - Activate AIO Tools https://github.com/BsNgChiThanh/ActivateAIOTools
 - KMS Tools https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO
+- KMS Suite: https://github.com/BsNgChiThanh/KMS_Suite
 - W10 Digital License Activation Scrip https://github.com/BsNgChiThanh/W10DigitalLicenseActivationScrip
 - Tools tạo tác vụ gia hạn kích hoạt https://github.com/BsNgChiThanh/AutoRenewOfficeWindows
 
