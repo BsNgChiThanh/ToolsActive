@@ -30,6 +30,9 @@ Tác giả: Nguyễn Chí Thành
 - MAS Tool https://github.com/BsNgChiThanh/MAS-TOOL
 - Office 365 Prolus https://github.com/BsNgChiThanh/office-365-prolus 
 - Office 365 Enterprise https://github.com/BsNgChiThanh/Office365Enterprise
+- Office 2024 https://github.com/BsNgChiThanh/Office2024Prolus
+- Project 2024 https://github.com/BsNgChiThanh/Office2024Project
+- Visio 2024 https://github.com/BsNgChiThanh/Office2024Visio
 - Office 2021 https://github.com/BsNgChiThanh/Cai-Office2021-va-kich-hoat
 - Project 2021 https://github.com/BsNgChiThanh/Cai-project-pro2021-va-kich-hoat
 - Visio 2021 https://github.com/BsNgChiThanh/Cai-visio-pro2021-va-kich-hoat
